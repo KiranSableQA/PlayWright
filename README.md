@@ -6,23 +6,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Batch-In%20Progress-orange?style=for-the-badge)
 
-**The official course repository for Batch 2x — JavaScript, TypeScript, and Playwright for SDETs**
 
-*Zero to automation hero — JavaScript fundamentals → TypeScript → Playwright → AI Agents & MCP*
 
-[Quick Start](#-quick-start) · [Curriculum](#-curriculum-roadmap) · [Weekly Plan](#-weekly-plan) · [What You'll Build](#-what-youll-build) · [Resources](#-resources)
 
 </div>
 
----
 
-## Welcome to Batch 2x
-
-This repository is your **week-by-week course companion** for the LearnPlaywright Batch 2x cohort by [The Testing Academy](https://thetestingacademy.com). Code shown in lectures lands here so you can read it, run it, and practice on it.
-
-> Content gets added **as we progress through the batch** — so check back after every class.
 
 ### What you'll learn
 
@@ -37,7 +27,7 @@ This repository is your **week-by-week course companion** for the LearnPlaywrigh
 
 ```mermaid
 graph TB
-    subgraph root["LearnPlaywrightBatch2x"]
+    subgraph root["Playwright"]
         direction TB
 
         subgraph js["📘 JavaScript (Weeks 1–6)"]
@@ -99,7 +89,7 @@ graph TB
 ## 📚 Current Folder Structure
 
 ```
-LearnPlaywrightBatch2x/
+Playwright/
 ├── chapter_01_Basics/                  ✅ Hello World, env setup, hot code
 │   ├── 01_Basics.js                    # First console.log program
 │   ├── 02_JS.js                        # Variables & a simple loop
@@ -179,8 +169,8 @@ LearnPlaywrightBatch2x/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/PramodDutta/LearnPlaywrightBatch2x.git
-cd LearnPlaywrightBatch2x
+git clone https://github.com/KiranSableQA/PlayWright.git             
+cd Playwright
 
 # 2. Verify your setup
 node chapter_01_Basics/03_JS_Verify_Setup.js
@@ -1083,7 +1073,7 @@ npx playwright show-trace <trace.zip>    # Open trace viewer
 | | |
 |---|---|
 | **Author** | Kiran Sable |
-| **Stack** | JavaScript · TypeScript · Playwright · Node 18+ |
+| **Stack** | JavaScript · TypeScript · Playwright · |
 
 ---
 
