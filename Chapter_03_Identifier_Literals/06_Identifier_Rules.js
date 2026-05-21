@@ -5,7 +5,7 @@
 // Rule 1: Can start with letter (a-z, A-Z)
 var s = 10;
 var myVariable = 20;
-var MyVariable = 30;
+var MyVariable = 30; 
 var firstName = "Kiran";
 
 // Rule 2: Can start with underscore (_)
