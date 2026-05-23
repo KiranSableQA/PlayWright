@@ -144,8 +144,11 @@ Playwright/
 │   ├── 40_String_Con_Op.js             # + on strings = concatenation
 │   ├── 41_Ternary_Op.js                # 🚧 a ? b : c (coming next)
 │   ├── 42_Type_Op.js                   # 🚧 typeof, instanceof (coming next)
-   ├── 43_Incre_Decre_Op.js            # 🚧 ++ -- pre/post (coming next)
-   └── 44_Null_Op.js                   # 🚧 ?? ?. nullish operators (coming next)
+│   ├── 43_Incre_Decre_Op.js            # 🚧 ++ -- pre/post (coming next)
+│   ├── 44_Null_Op.js                   # 🚧 ?? ?. nullish operators (coming next)
+│   ├── 45_Post_Increment.js            # Post-increment operator example
+│   ├── 46_IQ_INCREMENT_D.js            # Increment/decrement interview questions
+│   └── 47_Advance_ID_.js               # Advanced increment/decrement cases
 ```
 
 > **Legend:** ✅ Done · 🚧 Coming soon

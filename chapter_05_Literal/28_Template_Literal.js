@@ -1,7 +1,7 @@
 // Template literally. 
 
-let firstname = "Prrammod";
-let fullname = `Hi ${firstname} Dutta`;
+let firstname = "Kirran";
+let fullname = `Hi ${firstname} Sable`;
 console.log(fullname);
 
 
