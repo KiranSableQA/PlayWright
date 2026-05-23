@@ -1,5 +1,7 @@
 # Learn Playwright Batch 2x
 
+_Last updated: May 23, 2026_
+
 <div align="center">
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
@@ -102,15 +104,16 @@ Playwright/
 │   ├── VS_Code_keyboard_shortcut_mac.md     # macOS VS Code shortcuts
 │   └── VS_Code_keyboard_shortcut_windows.md # Windows VS Code shortcuts
 │
-├── chapter_04_Javascript_Concepts/     ✅ var / let / const, hoisting & TDZ
+├── Chapter_04_JavaScript_Concepts/     ✅ var / let / const, hoisting & TDZ
 │   ├── 09_var_let_const.js             # var, let, const basics
-│   ├── 10_functions.js                 # Function declaration & calls
+│   ├── 10_Function.js                  # Function declaration & calls
 │   ├── 11_var_explained.js             # var deep dive
-│   ├── 12_let_peope_love.js            # let deep dive
-│   ├── 13_const_explained.js           # const deep dive
+│   ├── 12_let.js                      # let deep dive
+│   ├── 13_const_explain.js            # const deep dive
+│   ├── 14_difference_btn_variable_Let_cont.js # var/let/const difference example
 │   ├── 14_var_functionscope.js         # var function scope
 │   ├── 15_let_scope.js                 # let block scope
-│   ├── 16_Hoisting.js                  # Variable hoisting explained
+│   ├── 16_Hosting.js                  # Variable hoisting explained
 │   ├── 17_hoisting_fn.js               # Function hoisting
 │   ├── 18_let_hoisting.js              # let hoisting & Temporal Dead Zone (TDZ)
 │   ├── 19_let_hoisting_block.js        # Block-scoped TDZ shadowing
