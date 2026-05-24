@@ -34,7 +34,7 @@ graph TB
             ch4["Ch 4: var / let / const & Hoisting ✅"]
             ch5["Ch 5: Literals (null, number, string, template) ✅"]
             ch6["Ch 6: Operators ✅"]
-            ch7["Ch 7: If / Else"]
+            ch7["Ch 7: If / Else ✅"]
             ch8["Ch 8: Switch"]
             ch9["Ch 9: Loops"]
             ch10["Ch 10: Arrays"]
@@ -151,6 +151,20 @@ Playwright/
 │   ├── 47_Advance_ID_.js               # Advanced increment/decrement cases
 │   ├── Ex_01_Maximum_Between_Two_Numbers # Exercise: Find max of two numbers using ternary
 │   └── Ex_02_Maximum_Between_Three_Numbers # Exercise: Find max of three numbers using nested ternary
+```
+
+├── chapter_07_If_else/                 ✅ If / Else branch logic
+│   ├── 48_IF_ESLE.js                   # Basic if/else example
+│   ├── 49_If_elseif_else.js            # if/else if/else chains
+│   ├── 50_REAL_IF_ELSE.js              # Real-world decision logic
+│   ├── 51_API_IF_ELSE.js               # API status decision example
+│   ├── 52_IQ_IF_ELSE.js                # Interview questions — if/else
+│   ├── 53_IF_ELSE_real.js              # Real-life if/else use cases
+│   ├── 54_IQ.js                        # QA logic puzzles
+│   ├── 55_IE.js                        # Example if/else logic
+│   ├── 56_IQ_EVEN_ODD.js               # Even/odd decision example
+│   ├── 57_Grade_Calc.js                # Grade calculation with if/else
+│   └── 58_LEAP_YEAR.js                 # Leap year checker using if/else
 ```
 
 > **Legend:** ✅ Done · 🚧 Coming soon
