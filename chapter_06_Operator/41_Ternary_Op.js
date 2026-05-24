@@ -20,14 +20,21 @@ console.log(baseUrl);
 
 let isCI = true;
 let browserMode = isCI ? "headless" : "headed";
+// let browserMode = isCI ? "headed" : "headless";
 console.log("Launching browser in:", browserMode, "mode");
 
 
 
-let responseTime = 850;  // ms
+let responseTime = 1850;  // ms
 let sla = 1000;          // ms
 let slaStatus = responseTime <= sla ? "Within SLA ✅" : "SLA breached ❌";
 console.log(`Response: ${responseTime}ms — ${slaStatus}`);
+
+let speed = 120;
+let isspeed=180;
+let speedStatus = speed >= isspeed ? "Speed is good ✅" : "Speed is slow ❌";
+console.log(`Current Speed: ${speed} km/h — ${speedStatus}`);
+console.log(speedStatus);
 
 let condition = true;
 let isSKMale = condition ? true : false;

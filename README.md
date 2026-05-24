@@ -1,6 +1,6 @@
 # Learn Playwright Batch 2x
 
-_Last updated: May 23, 2026_
+_Last updated: May 24, 2026_
 
 <div align="center">
 
@@ -148,7 +148,9 @@ Playwright/
 │   ├── 44_Null_Op.js                   # 🚧 ?? ?. nullish operators (coming next)
 │   ├── 45_Post_Increment.js            # Post-increment operator example
 │   ├── 46_IQ_INCREMENT_D.js            # Increment/decrement interview questions
-│   └── 47_Advance_ID_.js               # Advanced increment/decrement cases
+│   ├── 47_Advance_ID_.js               # Advanced increment/decrement cases
+│   ├── Ex_01_Maximum_Between_Two_Numbers # Exercise: Find max of two numbers using ternary
+│   └── Ex_02_Maximum_Between_Three_Numbers # Exercise: Find max of three numbers using nested ternary
 ```
 
 > **Legend:** ✅ Done · 🚧 Coming soon

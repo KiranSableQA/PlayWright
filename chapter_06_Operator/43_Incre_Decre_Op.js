@@ -1,5 +1,20 @@
-let a_post = 10;
-let b = a_post++;
-// post ++ -> first assign the value and then increase.
-console.log(a_post);
+// Pre Increment
+let a = 10;
+let b = ++a; // (increment the a by 1)
+
+// // Pre increment -> ++a ->. increse the value and then assign.
+console.log(a);
 console.log(b);
+console.log(a);
+
+
+// // Deincrement
+// let a = 10;
+// let b = --a; // (increment the a by 1)
+// console.log(b); // 9
+// console.log(a);  // 9
+
+// let a = 10;
+// let b = a--; // (increment the a by 1)
+// console.log(b); // 10
+// console.log(a);  // 9
