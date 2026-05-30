@@ -1,6 +1,6 @@
 # Learn Playwright Batch 2x
 
-_Last updated: May 24, 2026_
+_Last updated: May 30, 2026_
 
 <div align="center">
 
@@ -164,8 +164,16 @@ Playwright/
 │   ├── 55_IE.js                        # Example if/else logic
 │   ├── 56_IQ_EVEN_ODD.js               # Even/odd decision example
 │   ├── 57_Grade_Calc.js                # Grade calculation with if/else
-│   └── 58_LEAP_YEAR.js                 # Leap year checker using if/else
+│   ├── Ex_01_Odd_Even.js               # Exercise: odd/even checker
+│   ├── Ex_02_Status_Code.js            # Exercise: HTTP status code handler
+│   ├── Ex_03_Pass_Faild.js             # Exercise: pass/fail result logic
+│   ├── Ex_04_Severity.js               # Exercise: severity level reporter
+│   ├── Ex_05_Build_Health_Reporter.js  # Exercise: build health status reporter
+│   └── Ex_06_Login_Logout_lok.js       # Exercise: login/logout flow example
 ```
+
+├── Chapter_11_Arrays/                  ✅ Arrays & collection basics
+│   └── 83_Arrays.js                    # Array operations and traversal
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
