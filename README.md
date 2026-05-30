@@ -36,9 +36,9 @@ graph TB
             ch6["Ch 6: Operators ✅"]
             ch7["Ch 7: If / Else ✅"]
             ch8["Ch 8: Switch ✅"]
-            ch9["Ch 9: Loops"]
-            ch10["Ch 10: Arrays"]
-            ch11["Ch 11: Functions & Strings"]
+            ch9["Ch 9: User Input ✅"]
+            ch10["Ch 10: Loops ✅"]
+            ch11["Ch 11: Arrays ✅"]
         end
 
         subgraph adv["⚙️ Advanced JS (Weeks 7–8)"]
@@ -182,6 +182,25 @@ Playwright/
 │   ├── 65_IQ2.js                      # switch interview question 2
 │   ├── 66_IQ3.js                      # switch interview question 3
 │   └── 67_IQ4.js                      # switch interview question 4
+
+├── chapter_09_UserInput/               ✅ User input and console interaction
+│   ├── 68_User_Input.js               # prompt user input in browser-like scripts
+│   ├── 69_Node_readline.js            # Node.js readline example
+│   └── 70_prompt_sync.js              # prompt-sync module usage
+
+├── chapter_10_Loops/                   ✅ Loop structures and flow control
+│   ├── 71_For_loop.js                 # basic for loop
+│   ├── 72_For_loop.js                 # for loop with condition variants
+│   ├── 73_For_Loop2.js               # nested and incremental for loops
+│   ├── 74_IQ.js                      # interview loop question 1
+│   ├── 75_For_OF_IN_EACH.js          # for/of, for/in, and forEach examples
+│   ├── 76_While.js                   # while loop basics
+│   ├── 77_Do_While.js                # do/while loop basics
+│   ├── 78_Do_While.js                # do/while example variation
+│   ├── 79_IQ.js                      # interview loop question 2
+│   ├── 80_IQ.js                      # interview loop question 3
+│   ├── 81_IQ.js                      # interview loop question 4
+│   └── 82_IQ.js                      # interview loop question 5
 
 ├── Chapter_11_Arrays/                  ✅ Arrays & collection basics
 │   └── 83_Arrays.js                    # Array operations and traversal
