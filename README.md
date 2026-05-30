@@ -35,7 +35,7 @@ graph TB
             ch5["Ch 5: Literals (null, number, string, template) ✅"]
             ch6["Ch 6: Operators ✅"]
             ch7["Ch 7: If / Else ✅"]
-            ch8["Ch 8: Switch"]
+            ch8["Ch 8: Switch ✅"]
             ch9["Ch 9: Loops"]
             ch10["Ch 10: Arrays"]
             ch11["Ch 11: Functions & Strings"]
@@ -171,6 +171,17 @@ Playwright/
 │   ├── Ex_05_Build_Health_Reporter.js  # Exercise: build health status reporter
 │   └── Ex_06_Login_Logout_lok.js       # Exercise: login/logout flow example
 ```
+
+├── chapter_08_Switch_Statement/        ✅ Switch statement and case examples
+│   ├── 59_Switch.js                   # switch case syntax
+│   ├── 60_No_Break.js                 # switch without break example
+│   ├── 61_Default.js                  # default case usage example
+│   ├── 62_REAL_TIME_EXAMPLE.js        # real-world switch example
+│   ├── 63_Switch_Group.js             # grouped cases and fallthrough
+│   ├── 64_IQ.js                       # switch interview question 1
+│   ├── 65_IQ2.js                      # switch interview question 2
+│   ├── 66_IQ3.js                      # switch interview question 3
+│   └── 67_IQ4.js                      # switch interview question 4
 
 ├── Chapter_11_Arrays/                  ✅ Arrays & collection basics
 │   └── 83_Arrays.js                    # Array operations and traversal
