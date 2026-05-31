@@ -202,7 +202,7 @@ Playwright/
 │   ├── 81_IQ.js                      # interview loop question 4
 │   └── 82_IQ.js                      # interview loop question 5
 
-├── Chapter_11_Arrays/                  ✅ Arrays & collection basics
+├── Chapter_011_Arrays/                 ✅ Arrays & collection basics
 │   ├── 83_Arrays.js                    # Array operations and traversal
 │   ├── 84_Arrays.js                    # Array creation patterns
 │   ├── 85_Access_Array.js              # Access and index-based lookup
