@@ -217,7 +217,17 @@ Playwright/
 │   ├── 94_Concat_array.js              # concat and spread syntax examples
 │   └── 95_Array_Checking.js            # every, some, includes, type checks
 
-> **Latest:** Chapter 11 now includes 13 new array examples covering access, add/remove, search, iteration, transform, concatenation, slicing, and checking.
+├── chapter_012_Funtions/               ✅ Functions fundamentals
+│   ├── 96_Functions.js                 # Basic functions and declarations
+│   ├── 97_Type1_Fn_Basic_Functions.js  # Functions without params or return values
+│   ├── 98_Type2_Fn_With_Param_No_Return.js # Parameters with no return
+│   ├── 99_Type3_Fn_without_Param_Return_Type.js # Return values and types
+│   ├── 100_Type4_Fn_With_Param_With_Return.js # Paramized functions with return values
+│   ├── 101_Template_literal.js         # Template literals in strings and logs
+│   ├── 102_Fn_Expression.js            # Function expressions and anonymous functions
+│   └── 103_Arrow_Fn.js                 # Arrow functions and shorthand syntax
+
+> **Latest:** Chapter 11 now includes 13 new array examples, and Chapter 12 now includes function examples covering declarations, parameters, returns, template literals, expressions, and arrow functions.
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
