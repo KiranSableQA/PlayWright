@@ -1,6 +1,6 @@
 # Learn Playwright Batch 2x
 
-_Last updated: May 30, 2026_
+_Last updated: May 31, 2026_
 
 <div align="center">
 
@@ -203,7 +203,21 @@ Playwright/
 │   └── 82_IQ.js                      # interview loop question 5
 
 ├── Chapter_11_Arrays/                  ✅ Arrays & collection basics
-│   └── 83_Arrays.js                    # Array operations and traversal
+│   ├── 83_Arrays.js                    # Array operations and traversal
+│   ├── 84_Arrays.js                    # Array creation patterns
+│   ├── 85_Access_Array.js              # Access and index-based lookup
+│   ├── 86_Arrays_Adding_Remove.js      # push/pop, shift/unshift basics
+│   ├── 87_Adding_Remove2.js            # splice, slice, and removal tricks
+│   ├── 88_REAL_Example.js              # Real-world array work case study
+│   ├── 89_Searching.js                 # find, filter, includes, indexOf
+│   ├── 90_Iterate.js                   # for, for...of, forEach iteration patterns
+│   ├── 91_Transform_Array.js           # map, flatMap, and transformations
+│   ├── 92_Arrays.js                    # concat, split and array utilities
+│   ├── 93_Array_Slicing.js             # slice, splice, and copy patterns
+│   ├── 94_Concat_array.js              # concat and spread syntax examples
+│   └── 95_Array_Checking.js            # every, some, includes, type checks
+
+> **Latest:** Chapter 11 now includes 13 new array examples covering access, add/remove, search, iteration, transform, concatenation, slicing, and checking.
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
