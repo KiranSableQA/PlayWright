@@ -1,6 +1,6 @@
 # Learn Playwright Batch 2x
 
-_Last updated: May 31, 2026_
+_Last updated: June 3, 2026_
 
 <div align="center">
 
@@ -217,6 +217,7 @@ Playwright/
 │   ├── 94_Concat_array.js              # concat and spread syntax examples
 │   └── 95_Array_Checking.js            # every, some, includes, type checks
 
+
 ├── chapter_012_Funtions/               ✅ Functions fundamentals
 │   ├── 96_Functions.js                 # Basic functions and declarations
 │   ├── 97_Type1_Fn_Basic_Functions.js  # Functions without params or return values
@@ -225,9 +226,24 @@ Playwright/
 │   ├── 100_Type4_Fn_With_Param_With_Return.js # Paramized functions with return values
 │   ├── 101_Template_literal.js         # Template literals in strings and logs
 │   ├── 102_Fn_Expression.js            # Function expressions and anonymous functions
-│   └── 103_Arrow_Fn.js                 # Arrow functions and shorthand syntax
+│   ├── 103_Arrow_Fn.js                 # Arrow functions and shorthand syntax
+│   ├── 104_Arrow_Fn.js                 # Additional arrow function examples
+│   ├── 105_IIFE.js                     # Immediately Invoked Function Expressions
+│   ├── 106_Default_Param_Fn.js         # Default parameters
+│   ├── 107_IQ.js                       # Interview questions — functions
+│   ├── 108_Rest_Param_Fn.js            # Rest parameters
+│   ├── 109_IQ.js                       # Interview questions — rest/spread
+│   ├── 110_Spead_IQ.js                 # Spread operator examples
+│   ├── 111_Scope._Fn.js                # Scope and closures basics
+│   ├── 112_IQ.js                       # Scope interview questions
+│   ├── 113_Closure.js                  # Closure example — returning inner functions
+│   ├── 114_Closure.js                  # More closure examples
+│   ├── 115_API_REAL_Closure.js         # Real-world closure with API example
+│   ├── 116_Higher_Order_Fn.js         # Higher-order functions
+│   ├── 117_Pure_Fn.js                  # Pure functions and immutability
+│   └── Ex_01                           # Exercises
 
-> **Latest:** Chapter 11 now includes 13 new array examples, and Chapter 12 now includes function examples covering declarations, parameters, returns, template literals, expressions, and arrow functions.
+> **Latest:** Chapter 11 now includes 13 new array examples. Chapter 12 has been expanded with 20+ function examples: IIFE, default/rest/spread params, scope, closures (`113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`), higher-order functions (`116_Higher_Order_Fn.js`), and pure functions (`117_Pure_Fn.js`).
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
