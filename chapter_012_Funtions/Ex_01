@@ -1,0 +1,26 @@
+// 1. No Return Type, No Arguments
+function greet() {
+    console.log("Hello Kiran");
+}
+greet();
+
+
+// 2. With Return Type, No Arguments
+function getCompany() {
+    return "OpenAI";
+}
+console.log(getCompany());
+
+
+// 3. With Arguments, No Return Type
+function displayName(name) {
+    console.log("Name:", name);
+}
+displayName("Kiran");
+
+
+// 4. With Arguments and With Return Type
+function add(a, b) {
+    return a + b;
+}
+console.log(add(10, 20));
