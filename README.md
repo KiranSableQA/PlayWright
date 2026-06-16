@@ -1,6 +1,6 @@
 # Learn Playwright Batch 2x
 
-_Last updated: June 16, 2026_
+_Last updated: June 17, 2026_
 
 <div align="center">
 
@@ -252,7 +252,13 @@ Playwright/
 │   ├── 123_SC.js                       # String case examples
 │   └── javascript_stringcheatsheet.md  # One-line string method cheatsheet
 
-> **Latest:** Chapter 11 now includes 13 new array examples. Chapter 12 has been expanded with 20+ function examples: IIFE, default/rest/spread params, scope, closures (`113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`), higher-order functions (`116_Higher_Order_Fn.js`), and pure functions (`117_Pure_Fn.js`). Chapter 13 now adds string method examples, string transformation patterns, and a new cheatsheet reference.
+> **Latest:** New examples added across the repo:
+>
+> - **Chapter_011_Arrays:** 83_Arrays.js, 84_Arrays.js, 85_Access_Array.js, 86_Arrays_Adding_Remove.js, 87_Adding_Remove2.js, 88_REAL_Example.js, 89_Searching.js, 90_Iterate.js, 91_Transform_Array.js, 92_Arrays.js, 93_Array_Slicing.js, 94_Concat_array.js, 95_Array_Checking.js
+>
+> - **chapter_012_Funtions:** 96_Functions.js, 97_Type1_Fn_Basic_Functions.js, 98_Type2_Fn_With_Param_No_Return.js, 99_Type3_Fn_without_Param_Return_Type.js, 100_Type4_Fn_With_Param_With_Return.js, 101_Template_literal.js, 102_Fn_Expression.js, 103_Arrow_Fn.js, 104_Arrow_Fn.js, 105_IIFE.js, 106_Default_Param_Fn.js, 107_IQ.js, 108_Rest_Param_Fn.js, 109_IQ.js, 110_Spead_IQ.js, 111_Scope._Fn.js, 112_IQ.js, 113_Closure.js, 114_Closure.js, 115_API_REAL_Closure.js, 116_Higher_Order_Fn.js, 117_Pure_Fn.js, Ex_01
+>
+> - **Chapter_13_Strings:** 118_Strings.js and supporting string transformation examples and a cheatsheet reference.
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
