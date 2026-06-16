@@ -1,6 +1,6 @@
 # Learn Playwright Batch 2x
 
-_Last updated: June 3, 2026_
+_Last updated: June 16, 2026_
 
 <div align="center">
 
@@ -242,8 +242,17 @@ Playwright/
 │   ├── 116_Higher_Order_Fn.js         # Higher-order functions
 │   ├── 117_Pure_Fn.js                  # Pure functions and immutability
 │   └── Ex_01                           # Exercises
+│
+├── chapter_13_Strings/                 ✅ Strings reference and cheatsheet
+│   ├── 118_Strings.js                  # String basics and transformations
+│   ├── 119_String_Properties.js        # String property examples
+│   ├── 120_Search_Check_Str.js         # Search and validation methods
+│   ├── 121_Substring.js                # slice/substring/substr examples
+│   ├── 122_Transform_Str.js            # Case, trim, pad, repeat, replace
+│   ├── 123_SC.js                       # String case examples
+│   └── javascript_stringcheatsheet.md  # One-line string method cheatsheet
 
-> **Latest:** Chapter 11 now includes 13 new array examples. Chapter 12 has been expanded with 20+ function examples: IIFE, default/rest/spread params, scope, closures (`113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`), higher-order functions (`116_Higher_Order_Fn.js`), and pure functions (`117_Pure_Fn.js`).
+> **Latest:** Chapter 11 now includes 13 new array examples. Chapter 12 has been expanded with 20+ function examples: IIFE, default/rest/spread params, scope, closures (`113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`), higher-order functions (`116_Higher_Order_Fn.js`), and pure functions (`117_Pure_Fn.js`). Chapter 13 now adds string method examples, string transformation patterns, and a new cheatsheet reference.
 
 > **Legend:** ✅ Done · 🚧 Coming soon
 
