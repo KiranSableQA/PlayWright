@@ -1,6 +1,6 @@
 # Learn Playwright Batch 2x
 
-_Last updated: June 17, 2026_
+_Last updated: October 11, 2026_
 
 <div align="center">
 
@@ -131,16 +131,16 @@ Playwright/
 │   └── 29_Backtick_single_double.js    # ' vs " vs `" — the one-page summary
 │
 ├── chapter_06_Operator/                ✅ Operators — arithmetic, comparison, logical
-│   ├── 30_Operator.js                  # Assignment operator =
-│   ├── 31_Arithmetic_OP.js             # + - * /
+│   ├── 30_Operators.js                 # Assignment operator =
+│   ├── 31_Arithematic_OP.js            # + - * /
 │   ├── 32_Modulus_OP.js                # % — odd/even trick
 │   ├── 33_Expo_OP.js                   # ** exponentiation
 │   ├── 34_IQ.js                        # Compound assignment: += -= *= /= %=
-│   ├── 35_Comparsion_OP.js             # > < >= <= == === != !==
-│   ├── 36_Comparsion_Strict_loose.js   # Loose vs strict — number == string traps
-│   ├── 37_IQ_Loose_Strict.js          # Interview quick-fire: 0 == "" == "0"
-│   ├── 38_Confusing_Comparsion.js      # 🔥 == vs === full reference (NaN, [], null, typeof)
-│   ├── 39_Logical_Op.js                # && || !
+│   ├── 35_Comparasion_OP.js            # > < >= <= == === != !==
+│   ├── 36_Comparasion == & ===.js      # Loose vs strict equality examples
+│   ├── 37_IQ_Loose_Strick.js           # Interview quick-fire: 0 == "" == "0"
+│   ├── 38_Confusing_Comparisons.js     # == vs === reference: coercion, NaN, arrays, null, typeof
+│   ├── 39_Logical_Operators.js         # && || !
 │   ├── 40_String_Con_Op.js             # + on strings = concatenation
 │   ├── 41_Ternary_Op.js                # 🚧 a ? b : c (coming next)
 │   ├── 42_Type_Op.js                   # 🚧 typeof, instanceof (coming next)
@@ -252,7 +252,11 @@ Playwright/
 │   ├── 123_SC.js                       # String case examples
 │   └── javascript_stringcheatsheet.md  # One-line string method cheatsheet
 
-> **Latest:** New examples added across the repo:
+> **Latest:** Recent updates include:
+>
+> - **Chapter 4:** `19_let_hoisting_block.js` now demonstrates block-scoped `let` shadowing.
+>
+> - **Chapter 6:** `37_IQ_Loose_Strick.js` adds loose-equality interview questions, and `38_Confusing_Comparisons.js` expands the `==` vs `===` reference with coercion, `null`/`undefined`, `NaN`, arrays, and `typeof` examples.
 >
 > - **Chapter_011_Arrays:** 83_Arrays.js, 84_Arrays.js, 85_Access_Array.js, 86_Arrays_Adding_Remove.js, 87_Adding_Remove2.js, 88_REAL_Example.js, 89_Searching.js, 90_Iterate.js, 91_Transform_Array.js, 92_Arrays.js, 93_Array_Slicing.js, 94_Concat_array.js, 95_Array_Checking.js
 >

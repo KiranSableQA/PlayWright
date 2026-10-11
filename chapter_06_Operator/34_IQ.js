@@ -8,8 +8,11 @@ console.log(x);
 x *= 2; // x = x * 2;  // 34 
 console.log(x);
 
-x /= 17; // x = x / 17; // 2 
+x /= 4; // x = x / 17; // 2
 console.log(x);
 
 x %= 2;  // 0
+console.log(x);
+
+x %= 0.5;  // 0
 console.log(x);

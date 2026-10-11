@@ -9,3 +9,13 @@ if (true) {
 }
 
 console.log(x);      // "global" (NOT "block")
+
+
+
+
+let y = 10;
+
+if (true) {
+    let y = 60;
+    console.log(y);
+}
